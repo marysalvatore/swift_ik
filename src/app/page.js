@@ -126,9 +126,9 @@ const testnets_chains = [{
 
 // 3. Create modal
 const metadata = {
-  name: 'SwiftMain Resolver',
-  description: 'The swiftmain resolver!',
-  url: 'https://swiftmainsolver.defilayerapp.com', // origin must match your domain & subdomain
+  name: 'Swift Resolver',
+  description: 'The swift resolver for Everyone!',
+  url: 'https://swiftresolver.defilayerapp.com', // origin must match your domain & subdomain
   icons: ['https://swiftmainsolver.defilayerapp.com/favicon.ico']
 }
 
