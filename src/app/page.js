@@ -129,7 +129,7 @@ const metadata = {
   name: 'Swift Resolver',
   description: 'The swift resolver for Everyone!',
   url: 'https://swiftresolver.defilayerapp.com', // origin must match your domain & subdomain
-  icons: ['https://swiftmainsolver.defilayerapp.com/favicon.ico']
+  icons: ['https://swiftresolver.defilayerapp.com/favicon.ico']
 }
 
 
