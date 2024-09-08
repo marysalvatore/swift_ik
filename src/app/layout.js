@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ["latin"] });
 import Head from 'next/head';
 
 export const metadata = {
-  title: "Swift ReSolver",
+  title: "Swift Resolver",
   description: "The Swift ReSolver for Everyone!",
 };
 
